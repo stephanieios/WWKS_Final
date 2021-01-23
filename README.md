@@ -1,4 +1,4 @@
-# WWKS
+# WWKS: Part 2/Final
 
 ## Our Goal
 The objective of this tutorial is to walk you through the core programming concepts of Swift that will form the foundation of most of the apps you’ll build in the future. This app will teach you a lot of important programming knowledge, while building a neat quote app.
